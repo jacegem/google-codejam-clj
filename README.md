@@ -1,5 +1,13 @@
 # codejam-clj
 
+## 2022
+
+Qualification Round 2022
+Apr 1 2022, 23:00
+Apr 3 2022, 02:00
+
+## Clojure 
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
