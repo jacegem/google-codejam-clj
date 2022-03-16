@@ -2,9 +2,11 @@
 
 ## 2022
 
-Qualification Round 2022
-Apr 1 2022, 23:00
-Apr 3 2022, 02:00
+Round | Start (UTC) | End (UTC) | Duration
+--- | --- | --- | ---
+Qualification Round 2022 | Apr 1 2022, 23:00| Apr 3 2022, 02:00 | 27 hrs
+
+
 
 ## Clojure 
 
