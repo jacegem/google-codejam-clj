@@ -1,8 +1,6 @@
 (ns codejam-clj.2021.qr-a-reversesort
   (:require [clojure.java.io :as io]))
 
-
-
 (defn solve-reducer [{:keys [n cost elements] :as state} target-idx]
   (let [target-value (nth elements target-idx)
         sub-element (subvec elements (inc target-idx) n)
